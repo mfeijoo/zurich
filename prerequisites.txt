@@ -1,5 +1,7 @@
 pandas
 plotly
+plotly.express
+plotly.graphics_object
 numpy
 boto3
 fsspec
